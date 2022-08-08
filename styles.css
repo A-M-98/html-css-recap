@@ -1,7 +1,28 @@
-#article-header {
-    color: red;
+
+* {
+    padding: 4;
+    background-color: rgb(205, 126, 205);
 }
 
-.heading {
-    color: blue;
+
+
+footer {
+    height: 400px;
+    padding: 10px 20px;
 }
+
+
+
+p {
+    text-align: center;
+    color: rgb(0, 0, 0);
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 10%;
+    border: 2px solid brown;
+
+  }
